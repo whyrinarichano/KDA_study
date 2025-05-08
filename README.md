@@ -7,15 +7,23 @@
 --------
 
 ### <박준규 강사님>
+
+[📚DB For PostgreSQL 확장프로그램 설치 교육 자료](https://docs.google.com/presentation/d/1lR7yIw0LQOuz9kHIASAwIIi99Sdw9tN79J_D9i9lz9E/edit?usp=sharing)
+
 [✏️Postgress - SQL 쿼리문 이해와 연습 문제 풀이]
 
 --------
 
-### <Dacon : 신용카드 고객 세그먼트 분류 AI 경진대회>
+### <Dacon : 2023 전력사용량 예측 AI 경진대회>
+[🏆 2023 전력사용량 예측 AI 경진대회 LINK](https://dacon.io/competitions/official/236125/overview/description)
 
+[📄 2023 전력사용량 예측 AI 경진대회 : EDA 분석 교육 자료 ](https://docs.google.com/presentation/d/1syYWG1Sv8o7TZpAl3l8WkANc14u7CXLaWl8jLHGWjTc/edit?slide=id.g3558d8aaa8a_0_318#slide=id.g3558d8aaa8a_0_318)
+
+
+### <Dacon : 신용카드 고객 세그먼트 분류 AI 경진대회>
 #### PUBLIC : 237 -> 172(pca전략 사용)
 
-[🏆 대회 링크](https://dacon.io/competitions/official/236460/overview/description)
+[🏆 신용카드 고객 세그먼트 분류 AI 경진대회 LINK](https://dacon.io/competitions/official/236460/overview/description)
 
 [🧑🏻‍💻 pca - xgboost -  code link](https://github.com/whyrinarichano/KDA_study/blob/main/dacon_card/main_code/Model_pca.ipynb)
 
