@@ -10,7 +10,7 @@
 
 [📚DB For PostgreSQL 확장프로그램 설치 교육 자료](https://docs.google.com/presentation/d/1lR7yIw0LQOuz9kHIASAwIIi99Sdw9tN79J_D9i9lz9E/edit?usp=sharing)
 
-[✏️Postgress - SQL 쿼리문 이해와 연습 문제 풀이]
+[✏️Postgress - SQL 쿼리문 이해와 연습 문제 풀이](https://docs.google.com/presentation/d/1x_5fQ3mjzRCJGU77pQwvDaBFIty_aB5VfTkbkR36ICQ/edit?slide=id.p#slide=id.p)
 
 --------
 
