@@ -126,7 +126,9 @@ GROUP BY staff_id
 ;
 
 -- 14 전체데이터중일요일평균매출액은? Hint :subquery, extract
-select *, TRIM(TO_CHAR(payment_date, 'Day')) as Day, TO_CHAR(payment_date, 'yyyymmdd') from payment;
+select *, TRIM(TO_CHAR(payment_date, 'Day')) 
+as Day, TO_CHAR(payment_date, 'yyyymmdd') 
+from payment;
 
 
 select avg(sub2.sum) from

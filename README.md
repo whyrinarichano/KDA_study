@@ -4,6 +4,11 @@
 ### <송치오 강사님>
 [📄BTC_analysis - 비트코인과 날씨상관관계 분석 및 기술적 지표간 상관관계 분석](https://docs.google.com/presentation/d/1qVLhaKmmvTrgQvAmAM96_qLesRTxD_aVJwMeVO6K2aM/edit?usp=sharing)
 
+[📄Stock_analysis - 피어슨 상관관계의 한계점 분석](https://docs.google.com/presentation/d/1_IhywkW70kIPfrW-Sxhb6jWz2NP_6Wxv8Ht7H5RHJIM/edit?slide=id.g3589977b83e_0_0#slide=id.g3589977b83e_0_0)
+
+### <송치오 강사님, 이일주 강사님>
+[📄Stock_analysis - 공적분을 활용한 페어 트레이딩 전략 (5/14 카카오 종가 예측[이일주 강사님])](https://colab.research.google.com/drive/1eDBiN0xKKs7yBglbSrCBqwiHBfcUmIhy?usp=sharing)
+
 --------
 
 ### <박준규 강사님>
